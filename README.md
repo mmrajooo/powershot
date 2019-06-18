@@ -2,20 +2,20 @@ List of Canon Powershot Cameras
 
 | Camera          |released yyyy-mm|
 |-----------------|:--------------|
-|  PowerShot A1000|2008-08         | 
-|  PowerShot A1100|2009-03         |
-|A5 |April 1998 |
-|A5 zoom |October 1998 |
-|A50 |April 1999 |
-|A10 |May 2001 |
-|A30 |March 2002 |
+|   A1000|2008-08         | 
+|   A1100|2009-03         |
+|A5 |April 1998-04 |
+|A5 zoom | 1998-10 |
+|A50 | 1999-04 |
+|A10 | 2001-05 |
+|A30 | 2002-03 |
 |A40 || 
-|A60 |March 2003 |
+|A60 | 2003-03 |
 |A70 ||
-|A80 |October 2003 |
-|A75 |March 2004 |
+|A80 | 2003-10 |
+|A75 | 2004-03 |
 |A95 ||
-|A100 |April 2002 |
-|A5 |April 1998 |
-| A5 zoom |October 1998 |
-|A10 |May 2001 |
+|A100 | 2002-04 |
+|A5 | 1998-04|
+| A5 zoom | 1998-10 |
+|A10 | 2001-05 |
